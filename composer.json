@@ -1,0 +1,16 @@
+{
+    "name": "hamza/mvc_framework_php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamza Amri",
+            "email": "bouchgarahamza@gmail.com"
+        }
+    ],
+    "require": {}
+}
